@@ -47,7 +47,7 @@ begin
   #period;
   a1[1] = 1; a1[0] = 1; b1[1] = 1; b1[0] = 1;
   #period;
-$stop;
+  $stop;
 end
 
 initial
